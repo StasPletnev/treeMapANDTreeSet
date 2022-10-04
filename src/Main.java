@@ -6,7 +6,6 @@ import java.util.function.Consumer;
 
 public class Main {
     public static void main(String[] args) {
-        //int minChar = 8;
         List<Person> list = new ArrayList<>();
         list.add(new Person("Dima", "Pupkovich", 25));
         list.add(new Person("Sasha", "Dedovich", 76));
